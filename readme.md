@@ -1,6 +1,11 @@
 # demo-csharp-sec
 
 Solución base de .NET con un proyecto de consola en `src/demo-csharp-sec`.
+## justificaciaonana 
+
+Est e p[royecto esta pensado para una demo en vivo sobre el uso de copilot y 
+
+a enser como no escribar mal
 
 ## Estructura
 
