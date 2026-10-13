@@ -1,0 +1,14 @@
+/home/runner/work/demo-csharp-2/demo-csharp-2/src/demo-csharp2/bin/Debug/net8.0/demo-csharp2
+/home/runner/work/demo-csharp-2/demo-csharp-2/src/demo-csharp2/bin/Debug/net8.0/demo-csharp2.deps.json
+/home/runner/work/demo-csharp-2/demo-csharp-2/src/demo-csharp2/bin/Debug/net8.0/demo-csharp2.runtimeconfig.json
+/home/runner/work/demo-csharp-2/demo-csharp-2/src/demo-csharp2/bin/Debug/net8.0/demo-csharp2.dll
+/home/runner/work/demo-csharp-2/demo-csharp-2/src/demo-csharp2/bin/Debug/net8.0/demo-csharp2.pdb
+/home/runner/work/demo-csharp-2/demo-csharp-2/src/demo-csharp2/obj/Debug/net8.0/demo-csharp2.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/demo-csharp-2/demo-csharp-2/src/demo-csharp2/obj/Debug/net8.0/demo-csharp2.AssemblyInfoInputs.cache
+/home/runner/work/demo-csharp-2/demo-csharp-2/src/demo-csharp2/obj/Debug/net8.0/demo-csharp2.AssemblyInfo.cs
+/home/runner/work/demo-csharp-2/demo-csharp-2/src/demo-csharp2/obj/Debug/net8.0/demo-csharp2.csproj.CoreCompileInputs.cache
+/home/runner/work/demo-csharp-2/demo-csharp-2/src/demo-csharp2/obj/Debug/net8.0/demo-csharp2.dll
+/home/runner/work/demo-csharp-2/demo-csharp-2/src/demo-csharp2/obj/Debug/net8.0/refint/demo-csharp2.dll
+/home/runner/work/demo-csharp-2/demo-csharp-2/src/demo-csharp2/obj/Debug/net8.0/demo-csharp2.pdb
+/home/runner/work/demo-csharp-2/demo-csharp-2/src/demo-csharp2/obj/Debug/net8.0/demo-csharp2.genruntimeconfig.cache
+/home/runner/work/demo-csharp-2/demo-csharp-2/src/demo-csharp2/obj/Debug/net8.0/ref/demo-csharp2.dll
