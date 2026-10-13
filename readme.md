@@ -1,6 +1,9 @@
 # demo-csharp-sec
 
 Solución base de .NET con un proyecto de consola en `src/demo-csharp-sec`.
+## Justificación
+
+Este proyecto está pensado para una demostración en vivo sobre el uso de Copilot y para enseñar a escribir correctamente.
 
 ## Estructura
 
